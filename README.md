@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer | Backend Architecture & Distributed Systems</h3>
 
 <p align="center">
-  <b>Founder & Creator of <a href="https://github.com/Derssa/torollo">Torollo</a> 🚀</b><br>
-  <i>A local-first visual simulator and educational playground for backend engineering.</i>
+  <b>Founder & Creator of <a href="https://www.npmjs.com/package/torollo">Torollo</a> 🚀</b><br>
+  <i>An open-source local-first visual simulator and educational playground for backend engineering.</i>
 </p>
 
 ---
